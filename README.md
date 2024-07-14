@@ -17,9 +17,9 @@
       ],
       "additional_skills": [
         "git",
-        "Microservices"
+        "Microservices",
         "python",
-        "AWS"
+        "AWS",
         "MySQL"
       ]
       },
@@ -29,7 +29,9 @@
          "problem solving",
          "time management",
          "proactivity"
-      ],
+       ],
+    "languages": [
+    {
       "language": "Brazilian Portuguese",
       "level": "Native"
     },
@@ -39,7 +41,7 @@
       }
     ], 
     "social": {
-    "linkedin": "https://www.linkedin.com/in/bfukumori
+      "linkedin": "https://www.linkedin.com/in/lucas-linoo/
      }
     }
 

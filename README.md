@@ -1,7 +1,7 @@
 # Hi, this is My Repository 👋
 
 . I'm studying Information Systems, (2nd semester), which I hope to finish at the end of 2027.</br>
-. I am currently studying a career in Software Engineering at UNITAU and working as a Backend developer.
+. I'm currently studying a career in Software Engineering at UNITAU and working as a Backend developer.
 
 
     {

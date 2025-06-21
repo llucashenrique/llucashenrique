@@ -1,7 +1,10 @@
 # Hi, this is My Repository 👋
 
-. I'm studying Information Systems, (3nd semester), which I hope to finish at the end of 2027.</br>
+. I'm studying Information Systems, (4nd semester), which I hope to finish at the end of 2027.</br>
 . I'm currently studying a career in Software Engineering at UNITAU and working as a Backend developer.
+
+🔗 **Acesse o portfólio online**:  
+[https://llucashenrique.github.io/portfolio-lucas/](https://llucashenrique.github.io/portfolio-lucas/)
 
 
     {

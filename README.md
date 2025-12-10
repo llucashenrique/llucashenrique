@@ -1,7 +1,7 @@
 # Hi, this is My Repository 👋
 
-. I'm studying Information Systems, (4nd semester), which I hope to finish at the end of 2027.</br>
-. I'm currently studying a career in Software Engineering at UNITAU and working as a Backend developer.
+. I'm studying Information Systems, (5nd semester), which I hope to finish at the end of 2027.</br>
+. I'm currently studying a career in Data Engineer at UNITAU and working as a Data Engineer.
 
 🔗 **Acesse o portfólio online**:  
 [https://llucashenrique.github.io/portfolio-lucas/](https://llucashenrique.github.io/portfolio-lucas/)
@@ -10,18 +10,19 @@
     {
        "name": "Lucas Iino",
        "email": "lucasperes1591@gmail.com",
-       "education": "Backend Develop by UNITAU (in-progress)",
+       "education": "Data Engineerby UNITAU (in-progress)",
        "hard-skills": {
          "main_stacks": 
-          "Java",
-          "html",
-          "css",
-          "Spring Boot"
+          "Python",
+          "Spark",
+          "Pandas",
       ],
       "additional_skills": [
-        "git",
-        "Microservices",
-        "python",
+        "Git",
+        "GCP",
+        "Dataproc",
+        "Dataform",
+        "Airflow",
         "AWS",
         "MySQL"
       ]

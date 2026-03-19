@@ -4,7 +4,7 @@
 . I'm currently studying a career in Data Engineer at UNITAU and working as a Data Engineer.
 
 🔗 **Acesse o portfólio online**:  
-[https://llucashenrique.github.io/portfolio-lucas/](https://llucashenrique.github.io/portfolio-lucas/)
+[https://lucaslinodev.com.br/](https://lucaslinodev.com.br/)
 
 
     {
